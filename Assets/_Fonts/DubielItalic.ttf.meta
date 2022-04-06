@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 728ab8e308da0ab4697349ce8ad71c95
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dubiel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31922b318a00ce14e809794a4ccb5bc6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
